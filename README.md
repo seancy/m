@@ -15,7 +15,7 @@ Bootstrap、backbone、requirejs的使用者，正在玩angular.js，由原生js
 <h4>历史：</h4>
 再后来就是前端了。<br>
 后来成为一名asp.net程序员。<br>
-最早是asp受好者。<br>
+最早是asp爱好者。<br>
 
 <h4>联系方式：</h4>
 QQ：592808253<br>
